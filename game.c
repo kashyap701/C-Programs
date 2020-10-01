@@ -1,3 +1,5 @@
+//Program created by using C language.It is a guessing a number program
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
